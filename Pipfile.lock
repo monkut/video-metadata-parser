@@ -1,0 +1,29 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "ea68d434bc823ce49bb3cdda26fb05a2ca7fdf15ae6cc296ff2ac3f528a4ca39"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.7"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "pyexiftool": {
+            "hashes": [
+                "sha256:09b9ac1b7b63de429ca5b4184dbe69a2f45b61ccf2f143886f1684ac958c718a",
+                "sha256:dd234d152a3423989f4e17e8dd787e98ec1892cb4f5cd75630a0972c4328993c"
+            ],
+            "index": "pypi",
+            "version": "==0.1.1"
+        }
+    },
+    "develop": {}
+}
